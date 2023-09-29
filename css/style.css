@@ -1,0 +1,7 @@
+/* utility */
+
+.line {
+    display: inline-block;
+    border-top: 4px solid white;
+    width: 10%;
+}
